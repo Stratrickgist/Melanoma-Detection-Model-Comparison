@@ -1,0 +1,7 @@
+name: onet
+channels:
+  - nvidia
+  - defaults
+dependencies:
+  - cudatoolkit=11.7.0=hd8887f6_10
+  - python=3.8.16=h7a1cb2a_3
