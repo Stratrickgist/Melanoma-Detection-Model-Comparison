@@ -1,4 +1,4 @@
-# Melanom
+# Melanoma Detection Model Comparison
 
 This project compares melanoma image segmentation and classification results for U-Net and O-Net.
 
